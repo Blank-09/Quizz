@@ -2,6 +2,8 @@
 
 This is a Quiz application designed to test your knowledge on various topics. The app presents multiple-choice questions, and users select their answers. The app tracks the user's score and provides immediate feedback on whether the selected answer is correct or not. It's a great tool for learning and self-assessment.
 
+> ⚠️ This project is under development. Just finished the basic home page.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
